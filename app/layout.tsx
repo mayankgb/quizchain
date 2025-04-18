@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "quiz",
+  title: "quizchain",
   description: "Won your first solana reward",
 };
 
